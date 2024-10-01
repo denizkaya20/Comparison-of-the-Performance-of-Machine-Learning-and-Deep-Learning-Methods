@@ -1,0 +1,1 @@
+In the application, the price data of the most traded stocks in the American stock markets between 20.05.2023-01.12.2014 were obtained, these prices were accepted as a data set and LSTM (Long Short Term Memory) deep learning model and linear regression models were created to predict future 5 (five) day stock prices.
